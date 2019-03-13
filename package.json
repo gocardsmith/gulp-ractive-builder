@@ -1,0 +1,19 @@
+{
+  "name": "gulp-ractive-builder",
+  "version": "1.0.0",
+  "description": "Compile rative cmoponents with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gocardsmith/gulp-ractive-builder.git"
+  },
+  "author": "giff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gocardsmith/gulp-ractive-builder/issues"
+  },
+  "homepage": "https://github.com/gocardsmith/gulp-ractive-builder#readme"
+}
