@@ -18,9 +18,9 @@
   "homepage": "https://github.com/gocardsmith/gulp-ractive-builder#readme",
   "devDependencies": {
     "gulp-util": "^3.0.8",
-    "ractive": "^0.7.3",
-    "rcu": "^0.4.2",
-    "rcu-builders": "^0.2.0",
+    "ractive": "^0.8.14",
+    "rcu": "^0.11.0",
+    "rcu-builders": "^0.6.0",
     "through2": "^3.0.1"
   }
 }

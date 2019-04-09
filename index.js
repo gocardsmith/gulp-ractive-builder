@@ -42,7 +42,10 @@ function gulpRactiveBuilder(options)
       
       console.log (`Building file: ${file.path} `);
       filecontents =  builder( rcu.parse( filecontents   ), options );
-      file.contents = new Buffer(filecontents);
+      console.log(filecontents);
+      
+      file.contents = new Buffer(filecontents.code);
+            console.log (`made buffer `);
      callback(null,file);
     }
 
